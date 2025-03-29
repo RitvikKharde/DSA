@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RitvikKharde/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0051-n-queens](https://github.com/RitvikKharde/LEETCODE/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RitvikKharde/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RitvikKharde/LEETCODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
