@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RitvikKharde/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/RitvikKharde/LEETCODE/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/RitvikKharde/LEETCODE/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/RitvikKharde/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RitvikKharde/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/RitvikKharde/LEETCODE/tree/master/0035-search-insert-position) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RitvikKharde/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
