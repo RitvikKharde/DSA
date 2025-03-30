@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/RitvikKharde/LEETCODE/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/RitvikKharde/LEETCODE/tree/master/0283-move-zeroes) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RitvikKharde/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RitvikKharde/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/RitvikKharde/LEETCODE/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
