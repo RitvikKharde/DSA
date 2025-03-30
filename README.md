@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RitvikKharde/LEETCODE/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RitvikKharde/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RitvikKharde/LEETCODE/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RitvikKharde/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RitvikKharde/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RitvikKharde/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/RitvikKharde/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RitvikKharde/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RitvikKharde/LEETCODE/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -116,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
