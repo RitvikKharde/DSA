@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/RitvikKharde/LEETCODE/tree/master/0274-h-index) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RitvikKharde/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RitvikKharde/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/RitvikKharde/LEETCODE/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/RitvikKharde/LEETCODE/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/RitvikKharde/LEETCODE/tree/master/0181-employees-earning-more-than-their-managers) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/RitvikKharde/LEETCODE/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
