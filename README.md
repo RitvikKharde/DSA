@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/RitvikKharde/LEETCODE/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/RitvikKharde/LEETCODE/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
