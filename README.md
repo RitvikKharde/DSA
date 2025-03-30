@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RitvikKharde/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RitvikKharde/LEETCODE/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/RitvikKharde/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/RitvikKharde/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/RitvikKharde/LEETCODE/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RitvikKharde/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/RitvikKharde/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/RitvikKharde/LEETCODE/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
