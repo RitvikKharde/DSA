@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RitvikKharde/LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RitvikKharde/LEETCODE/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0189-rotate-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RitvikKharde/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RitvikKharde/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RitvikKharde/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0189-rotate-array) |
 ## Memoization
 |  |
 | ------- |
