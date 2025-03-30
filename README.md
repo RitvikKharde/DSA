@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/RitvikKharde/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/RitvikKharde/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RitvikKharde/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RitvikKharde/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RitvikKharde/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/RitvikKharde/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/RitvikKharde/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/RitvikKharde/LEETCODE/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
