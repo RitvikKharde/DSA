@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RitvikKharde/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/RitvikKharde/LEETCODE/tree/master/0500-keyboard-row) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RitvikKharde/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Matrix
 |  |
 | ------- |
@@ -166,4 +167,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0410-split-array-largest-sum) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RitvikKharde/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RitvikKharde/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RitvikKharde/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RitvikKharde/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
