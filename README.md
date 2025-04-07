@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RitvikKharde/LEETCODE/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/RitvikKharde/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/RitvikKharde/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/RitvikKharde/LEETCODE/tree/master/0500-keyboard-row) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RitvikKharde/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RitvikKharde/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/RitvikKharde/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/RitvikKharde/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2808-painting-the-walls](https://github.com/RitvikKharde/LEETCODE/tree/master/2808-painting-the-walls) |
