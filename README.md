@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/RitvikKharde/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RitvikKharde/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2262-solving-questions-with-brainpower](https://github.com/RitvikKharde/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
+| [2280-count-good-triplets-in-an-array](https://github.com/RitvikKharde/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2808-painting-the-walls](https://github.com/RitvikKharde/LEETCODE/tree/master/2808-painting-the-walls) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/RitvikKharde/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RitvikKharde/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2280-count-good-triplets-in-an-array](https://github.com/RitvikKharde/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RitvikKharde/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/RitvikKharde/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RitvikKharde/LEETCODE/tree/master/0169-majority-element) |
+| [2280-count-good-triplets-in-an-array](https://github.com/RitvikKharde/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -210,4 +213,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3548-find-the-count-of-good-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/RitvikKharde/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/RitvikKharde/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/RitvikKharde/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/RitvikKharde/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
