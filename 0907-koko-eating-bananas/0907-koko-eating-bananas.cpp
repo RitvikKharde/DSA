@@ -11,7 +11,8 @@ public:
             long long hour = 0;
 
             for (int i = 0; i < piles.size(); i++) {
-                
+                //did not use hours+= piles[i]/mid because it will give floor division
+                //we need ceiling division so we used this
                 hour += (piles[i] + mid - 1) / mid;
             }
 
