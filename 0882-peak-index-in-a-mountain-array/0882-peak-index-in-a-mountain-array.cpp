@@ -28,8 +28,7 @@ else{
 
 
 
-
-
+//Solution-2
 // class Solution {
 // public:
 //     int peakIndexInMountainArray(vector<int>& arr) {
