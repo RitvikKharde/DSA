@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RitvikKharde/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RitvikKharde/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1646-kth-missing-positive-number) |
+| [1677-matrix-diagonal-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RitvikKharde/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2262-solving-questions-with-brainpower](https://github.com/RitvikKharde/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/RitvikKharde/LEETCODE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RitvikKharde/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RitvikKharde/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
