@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/RitvikKharde/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/RitvikKharde/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2808-painting-the-walls](https://github.com/RitvikKharde/LEETCODE/tree/master/2808-painting-the-walls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Greedy
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/RitvikKharde/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1013-fibonacci-number) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/RitvikKharde/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/RitvikKharde/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 ## Binary Indexed Tree
 |  |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RitvikKharde/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/RitvikKharde/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
