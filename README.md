@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/RitvikKharde/LEETCODE/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RitvikKharde/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2262-solving-questions-with-brainpower](https://github.com/RitvikKharde/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/RitvikKharde/LEETCODE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RitvikKharde/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RitvikKharde/LEETCODE/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RitvikKharde/LEETCODE/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1646-kth-missing-positive-number) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RitvikKharde/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RitvikKharde/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/RitvikKharde/LEETCODE/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/RitvikKharde/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RitvikKharde/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0797-rabbits-in-forest](https://github.com/RitvikKharde/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RitvikKharde/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## String
 |  |
 | ------- |
@@ -300,9 +304,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RitvikKharde/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RitvikKharde/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RitvikKharde/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/RitvikKharde/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
