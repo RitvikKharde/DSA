@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2808-painting-the-walls](https://github.com/RitvikKharde/LEETCODE/tree/master/2808-painting-the-walls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/RitvikKharde/LEETCODE/tree/master/0868-push-dominoes) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Math
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RitvikKharde/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RitvikKharde/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Matrix
 |  |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RitvikKharde/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Database
 |  |
 | ------- |
