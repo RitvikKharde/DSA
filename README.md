@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RitvikKharde/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/RitvikKharde/LEETCODE/tree/master/1500-count-largest-group) |
+| [2050-count-good-numbers](https://github.com/RitvikKharde/LEETCODE/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RitvikKharde/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RitvikKharde/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RitvikKharde/LEETCODE/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/RitvikKharde/LEETCODE/tree/master/2050-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
