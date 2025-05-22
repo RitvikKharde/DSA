@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0797-rabbits-in-forest](https://github.com/RitvikKharde/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RitvikKharde/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [2032-largest-odd-number-in-string](https://github.com/RitvikKharde/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RitvikKharde/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/RitvikKharde/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/RitvikKharde/LEETCODE/tree/master/0868-push-dominoes) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RitvikKharde/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/RitvikKharde/LEETCODE/tree/master/1970-sorting-the-sentence) |
+| [2032-largest-odd-number-in-string](https://github.com/RitvikKharde/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RitvikKharde/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/RitvikKharde/LEETCODE/tree/master/1500-count-largest-group) |
+| [2032-largest-odd-number-in-string](https://github.com/RitvikKharde/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/RitvikKharde/LEETCODE/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RitvikKharde/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/2998-count-symmetric-integers) |
