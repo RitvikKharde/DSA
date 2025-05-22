@@ -1,7 +1,7 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        vector<int> alpha(52, 0);  // 26 for 'a'-'z', 26 for 'A'-'Z'
+        vector<int> alpha(52, 0);   
         int count = 0;
         int cc = 0;
 
@@ -11,7 +11,7 @@ public:
             } else if (s[i] >= 'A' && s[i] <= 'Z') {
                 alpha[26 + (s[i] - 'A')]++;
             }
-            // Ignore any other characters (digits, symbols) for this logic
+             
         }
 
         for (int i = 0; i < 52; i++) {
