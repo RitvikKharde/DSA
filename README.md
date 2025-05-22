@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RitvikKharde/LEETCODE/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/RitvikKharde/LEETCODE/tree/master/0500-keyboard-row) |
 | [0868-push-dominoes](https://github.com/RitvikKharde/LEETCODE/tree/master/0868-push-dominoes) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/RitvikKharde/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RitvikKharde/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/RitvikKharde/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/RitvikKharde/LEETCODE/tree/master/1500-count-largest-group) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/RitvikKharde/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/RitvikKharde/LEETCODE/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RitvikKharde/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/RitvikKharde/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
