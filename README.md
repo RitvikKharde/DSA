@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RitvikKharde/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/RitvikKharde/LEETCODE/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/RitvikKharde/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/RitvikKharde/LEETCODE/tree/master/0797-rabbits-in-forest) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/RitvikKharde/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RitvikKharde/LEETCODE/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/RitvikKharde/LEETCODE/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/RitvikKharde/LEETCODE/tree/master/2050-count-good-numbers) |
 ## Prefix Sum
