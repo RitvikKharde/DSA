@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RitvikKharde/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/RitvikKharde/LEETCODE/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3799-unique-3-digit-even-numbers](https://github.com/RitvikKharde/LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/RitvikKharde/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3799-unique-3-digit-even-numbers](https://github.com/RitvikKharde/LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/RitvikKharde/LEETCODE/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/RitvikKharde/LEETCODE/tree/master/2050-count-good-numbers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/RitvikKharde/LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/RitvikKharde/LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
 ## Combinatorics
 |  |
 | ------- |
