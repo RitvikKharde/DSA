@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/RitvikKharde/LEETCODE/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/RitvikKharde/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/RitvikKharde/LEETCODE/tree/master/0389-find-the-difference) |
 | [1970-sorting-the-sentence](https://github.com/RitvikKharde/LEETCODE/tree/master/1970-sorting-the-sentence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RitvikKharde/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Two Pointers
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/RitvikKharde/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/RitvikKharde/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RitvikKharde/LEETCODE/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/RitvikKharde/LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/RitvikKharde/LEETCODE/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/RitvikKharde/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/RitvikKharde/LEETCODE/tree/master/0500-keyboard-row) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RitvikKharde/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/RitvikKharde/LEETCODE/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/RitvikKharde/LEETCODE/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RitvikKharde/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/RitvikKharde/LEETCODE/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0523-continuous-subarray-sum) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RitvikKharde/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RitvikKharde/LEETCODE/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/RitvikKharde/LEETCODE/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
