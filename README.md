@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/RitvikKharde/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Memoization
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RitvikKharde/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RitvikKharde/LEETCODE/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RitvikKharde/LEETCODE/tree/master/0389-find-the-difference) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/RitvikKharde/LEETCODE/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/RitvikKharde/LEETCODE/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/RitvikKharde/LEETCODE/tree/master/3799-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RitvikKharde/LEETCODE/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/RitvikKharde/LEETCODE/tree/master/2048-build-array-from-permutation) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Graph
 |  |
 | ------- |
