@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/RitvikKharde/LEETCODE/tree/master/0868-push-dominoes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/RitvikKharde/LEETCODE/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1013-fibonacci-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1013-fibonacci-number) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RitvikKharde/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2262-solving-questions-with-brainpower](https://github.com/RitvikKharde/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RitvikKharde/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2808-painting-the-walls](https://github.com/RitvikKharde/LEETCODE/tree/master/2808-painting-the-walls) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RitvikKharde/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/RitvikKharde/LEETCODE/tree/master/0500-keyboard-row) |
 | [0868-push-dominoes](https://github.com/RitvikKharde/LEETCODE/tree/master/0868-push-dominoes) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/RitvikKharde/LEETCODE/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RitvikKharde/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/RitvikKharde/LEETCODE/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/RitvikKharde/LEETCODE/tree/master/1970-sorting-the-sentence) |
