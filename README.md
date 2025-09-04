@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/RitvikKharde/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RitvikKharde/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/RitvikKharde/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/RitvikKharde/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RitvikKharde/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/RitvikKharde/LEETCODE/tree/master/0070-climbing-stairs) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/RitvikKharde/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/RitvikKharde/LEETCODE/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/RitvikKharde/LEETCODE/tree/master/0409-longest-palindrome) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RitvikKharde/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RitvikKharde/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/RitvikKharde/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/RitvikKharde/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/RitvikKharde/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RitvikKharde/LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RitvikKharde/LEETCODE/tree/master/0125-valid-palindrome) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/RitvikKharde/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/RitvikKharde/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/RitvikKharde/LEETCODE/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RitvikKharde/LEETCODE/tree/master/0326-power-of-three) |
