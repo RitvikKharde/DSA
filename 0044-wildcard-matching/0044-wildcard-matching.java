@@ -1,25 +1,41 @@
 class Solution {
-    public boolean isMatch(String s, String p) {
-        int m = s.length();
-        int n = p.length();
-        boolean[][] dp = new boolean[m+1][n+1];
+    public boolean isMatch(String text, String pattern) {
+        int textLength = text.length();
+        int patternLength = pattern.length();
+        
+        // Create a DP table where dp[i][j] indicates if the first i characters of text
+        // match the first j characters of pattern
+        boolean[][] dp = new boolean[textLength + 1][patternLength + 1];
+        
+        // Empty text matches empty pattern
         dp[0][0] = true;
-        for (int j = 1; j <= n; j++) {
-            if (p.charAt(j-1) == '*') {
-                dp[0][j] = dp[0][j-1];
+        
+        // Handle patterns that start with '*' which can match empty text
+        for (int patternIndex = 1; patternIndex <= patternLength; patternIndex++) {
+            if (pattern.charAt(patternIndex - 1) == '*') {
+                dp[0][patternIndex] = dp[0][patternIndex - 1];
             }
         }
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (p.charAt(j-1) == '?' || s.charAt(i-1) == p.charAt(j-1)) {
-                    dp[i][j] = dp[i-1][j-1];
-                } else if (p.charAt(j-1) == '*') {
-                    dp[i][j] = dp[i][j-1] || dp[i-1][j];
-                } else {
-                    dp[i][j] = false;
+        
+        // Fill the DP table
+        for (int textIndex = 1; textIndex <= textLength; textIndex++) {
+            for (int patternIndex = 1; patternIndex <= patternLength; patternIndex++) {
+                char currentPatternChar = pattern.charAt(patternIndex - 1);
+                char currentTextChar = text.charAt(textIndex - 1);
+                
+                if (currentPatternChar == '?' || currentTextChar == currentPatternChar) {
+                    // If characters match or pattern has '?', inherit from previous state
+                    dp[textIndex][patternIndex] = dp[textIndex - 1][patternIndex - 1];
+                } else if (currentPatternChar == '*') {
+                    // '*' can match:
+                    // 1. Zero characters: ignore '*' in pattern (dp[textIndex][patternIndex - 1])
+                    // 2. One or more characters: use '*' to match current character (dp[textIndex - 1][patternIndex])
+                    dp[textIndex][patternIndex] = dp[textIndex][patternIndex - 1] || dp[textIndex - 1][patternIndex];
                 }
+                // Else, characters don't match and pattern isn't special, so dp[textIndex][patternIndex] remains false
             }
         }
-        return dp[m][n];
+        
+        return dp[textLength][patternLength];
     }
 }
