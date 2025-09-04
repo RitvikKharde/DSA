@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0523-continuous-subarray-sum) |
 | [0797-rabbits-in-forest](https://github.com/RitvikKharde/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/RitvikKharde/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/RitvikKharde/LEETCODE/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/RitvikKharde/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RitvikKharde/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RitvikKharde/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/RitvikKharde/LEETCODE/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/RitvikKharde/LEETCODE/tree/master/0868-push-dominoes) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/RitvikKharde/LEETCODE/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1013-fibonacci-number](https://github.com/RitvikKharde/LEETCODE/tree/master/1013-fibonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/RitvikKharde/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/RitvikKharde/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/RitvikKharde/LEETCODE/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/RitvikKharde/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0797-rabbits-in-forest](https://github.com/RitvikKharde/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [0902-minimum-number-of-refueling-stops](https://github.com/RitvikKharde/LEETCODE/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RitvikKharde/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2032-largest-odd-number-in-string](https://github.com/RitvikKharde/LEETCODE/tree/master/2032-largest-odd-number-in-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/RitvikKharde/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0902-minimum-number-of-refueling-stops](https://github.com/RitvikKharde/LEETCODE/tree/master/0902-minimum-number-of-refueling-stops) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/RitvikKharde/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/RitvikKharde/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
