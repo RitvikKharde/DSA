@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RitvikKharde/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RitvikKharde/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RitvikKharde/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RitvikKharde/LEETCODE/tree/master/0055-jump-game) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RitvikKharde/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RitvikKharde/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RitvikKharde/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/RitvikKharde/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/RitvikKharde/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RitvikKharde/LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/RitvikKharde/LEETCODE/tree/master/0125-valid-palindrome) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RitvikKharde/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RitvikKharde/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RitvikKharde/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RitvikKharde/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
